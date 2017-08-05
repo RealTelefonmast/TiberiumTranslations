@@ -1,0 +1,22 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+
+  <CommandDesignateRecheckWallsLabel>연결 점검</CommandDesignateRecheckWallsLabel>
+  <CommandDesignateRecheckWallsDesc>인접한 벽 건물과의 연결을 다시 설정합니다.</CommandDesignateRecheckWallsDesc>
+
+  	<GraveCapacity>수용력</GraveCapacity>
+	<GraveAssignColonist>이 정착민을 영묘에 안치합니다.</GraveAssignColonist>
+	
+	<FirestormPartial>전역 방어 시작됨. 남은 시간: </FirestormPartial>
+	<FirestormStart>파이어스톰 활성화</FirestormStart>
+	<FirestormActive>파이어스톰이 활성화됩니다.</FirestormActive>
+	<FirestormInactive>파이어스톰이 비활성화됩니다.</FirestormInactive>
+	<FirestormActivated>파이어스톰 해제까지 남은 시간: </FirestormActivated>
+	<FirestormReady>파이어스톰 준비 완료.</FirestormReady>
+	<FirestormNotReady>파이어스톰 준비 완료까지 남은 시간: </FirestormNotReady>
+	<FirestormNoPower>축전지에 충분한 전력이 저장되지 않았습니다.</FirestormNoPower>
+	<NoFirestormWalls>방어격벽이 필요합니다.</NoFirestormWalls>
+	<NoFirestormWallsSelected>방어격벽이 존재하지 않습니다.</NoFirestormWallsSelected>
+  
+  
+</LanguageData>

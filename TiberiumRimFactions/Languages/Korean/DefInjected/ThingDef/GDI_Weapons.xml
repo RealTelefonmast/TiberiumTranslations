@@ -1,0 +1,40 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+
+  <!-- GDI Rifle -->
+
+  <Bullet_GDIRifle.label>탄환</Bullet_GDIRifle.label>
+
+  <Gun_GDIRifle.label>GDI 표준 소총</Gun_GDIRifle.label>
+  <Gun_GDIRifle.description>GDI 신병들에게 기본적으로 지급되는 소총입니다. 20세기 수준의 무기체계이지만 여전히 유용합니다.</Gun_GDIRifle.description>
+
+
+  <!-- GDI Advanced Rifles -->
+
+  <Bullet_Railgun.label>레일건 탄환</Bullet_Railgun.label>
+
+  <Gun_GDIRailgun.label>GDI 레일건</Gun_GDIRailgun.label>
+  <Gun_GDIRailgun.description>GDI 레일건은 막대한 운동에너지를 지닌 가속 탄환을 발사합니다. 연사는 불가능하지만 어마어마한 유효사거리를 자랑합니다.</Gun_GDIRailgun.description>
+
+  <Gun_GDIRailgun_Faction.label>GDI 레일건</Gun_GDIRailgun_Faction.label>
+  <Gun_GDIRailgun_Faction.description>GDI 레일건은 막대한 운동에너지를 지닌 가속 탄환을 발사합니다. 연사는 불가능하지만 어마어마한 유효사거리를 자랑합니다.</Gun_GDIRailgun_Faction.description>
+  
+  
+  <Bullet_Shatterer.label>음파</Bullet_Shatterer.label>
+
+  <Gun_GDIShatterer.label>GDI 이동식 음파방사기</Gun_GDIShatterer.label>
+  <Gun_GDIShatterer.description>이 무기는 음파 기술을 활용하여 만들어졌습니다. 대단히 불안정하지만 위력적입니다.</Gun_GDIShatterer.description>
+  
+  <Gun_GDIShatterer_Faction.label>GDI 이동식 음파방사기</Gun_GDIShatterer_Faction.label>
+  <Gun_GDIShatterer_Faction.description>이 무기는 음파 기술을 활용하여 만들어졌습니다. 대단히 불안정하지만 위력적입니다.</Gun_GDIShatterer_Faction.description>
+  
+
+  <Bullet_Mortar.label>박격포탄</Bullet_Mortar.label>
+
+  <GDI_Mortar.label>GDI 이동식 박격포</GDI_Mortar.label>
+  <GDI_Mortar.description>초장거리 전투를 위해 설계된 곡사 병기입니다. 강력한 오벨리스크로 보호받는 노드 방어선을 무너뜨리는 데에 특히 효과적입니다.</GDI_Mortar.description>
+
+  <GDI_Mortar_Faction.label>GDI 이동식 박격포</GDI_Mortar_Faction.label>
+  <GDI_Mortar_Faction.description>초장거리 전투를 위해 설계된 곡사 병기입니다. 강력한 오벨리스크로 보호받는 노드 방어선을 무너뜨리는 데에 특히 효과적입니다.</GDI_Mortar_Faction.description>
+
+</LanguageData>

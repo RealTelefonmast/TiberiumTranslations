@@ -1,0 +1,20 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+
+  <RecheckWallsLabel>Recheck Network</RecheckWallsLabel>
+  <RecheckWallsDesc>Recheck all walls connected to this building. Useful for when new walls are added to the system.</RecheckWallsDesc>
+  <GraveCapacity>Capacity</GraveCapacity>
+  <GraveAssignColonist>Assign colonist</GraveAssignColonist>
+
+  <FirestormPartial>Partial defence initiated, time remaining:</FirestormPartial>
+  <FirestormStart>Activate Firestorm</FirestormStart>
+  <FirestormActive>Firestorm is active.</FirestormActive>
+  <FirestormInactive>Firestorm is inactive.</FirestormInactive>
+  <FirestormActivated>Firestorm activated, will shutdown in: </FirestormActivated>
+  <FirestormReady>Firestorm system is ready.</FirestormReady>
+  <FirestormNotReady>Firestorm system is not ready. Please wait:</FirestormNotReady>
+  <FirestormNoPower>Not enough power stored in batteries.</FirestormNoPower>
+  <NoFirestormWalls>No Firestorm wall segments found.</NoFirestormWalls>
+  <NoFirestormWallsSelected>No wall segments selected to start Firestorm.</NoFirestormWallsSelected>
+
+</LanguageData>

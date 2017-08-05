@@ -1,0 +1,17 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+
+  <LostBrothers.label>Lost Brothers</LostBrothers.label>
+  <LostBrothers.description>Three of you awake in your escape pods. A GDI Spaceship has destroyed your transporter and now you're lost in the midst of an unknown RimWorld.</LostBrothers.description>
+  <LostBrothers.scenario.name>Lost Brothers</LostBrothers.scenario.name>
+  <LostBrothers.scenario.description>Three of you awake in your escape pods. A GDI Spaceship has destroyed your transporter and now you're lost in the midst of an unknown RimWorld.</LostBrothers.scenario.description>
+  <LostBrothers.scenario.summary>Three members of the Brotherhood of Nod survive an attack.</LostBrothers.scenario.summary>
+
+  <GDIExpedition.label>GDI Expedition</GDIExpedition.label>
+  <GDIExpedition.description>Commander, your troops were sent on a dangerous mission, your goal is to evaluate the situation and accomplish your mission objectives:\n\n-Set up a base of operations with the given resources asap, protect yourself from any incoming dangers and make your next move when ready.\n\n-Secure the blue Tiberium field with the given Inhibitor.\n\n-Destroy the nearby Veinhole.\n\n-Multiple Tiberium towers have been reported in this area, destroy them.\n\n-Leave the area when all Tiberium threats have been eliminated.</GDIExpedition.description>
+  <GDIExpedition.scenario.name>GDI Expedition</GDIExpedition.scenario.name>
+  <GDIExpedition.scenario.description>Commander, your troops were sent on a dangerous mission, your goal is to evaluate the situation and accomplish your mission objectives:\n\n-Set up a base of operations with the given resources asap, protect yourself from any incoming dangers and make your next move when ready.\n\n-Secure the blue Tiberium field with the given Inhibitor.\n\n-Destroy the nearby Veinhole.\n\n-Multiple Tiberium towers have been reported in this area, destroy them.\n\n-Leave the area when all Tiberium threats have been eliminated.</GDIExpedition.scenario.description>
+  <GDIExpedition.scenario.summary>Four GDI soldiers explore a Tiberium infested world.</GDIExpedition.scenario.summary>
+
+
+</LanguageData>

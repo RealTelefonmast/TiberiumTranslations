@@ -1,0 +1,23 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+
+  <GDI_ReinforcedPlate.label>강화합금</GDI_ReinforcedPlate.label>
+  <GDI_ReinforcedPlate.description>군사적으로 매우 각광받는 신소재입니다. 강철보다 훨씬 견고하지만, 제련하기 위해서는 GDI만의 고유 기술이 필요합니다.</GDI_ReinforcedPlate.description>
+
+  <Nod_CarbonPlate.label>탄소합금</Nod_CarbonPlate.label>
+  <Nod_CarbonPlate.description>노드 기술자들은 총격에 버틸 수 있는 강한 소재를 찾기 위해 수 세기 동안 계속 노력했습니다. 그중 가장 성공적인 물질은 탄소합금이었습니다.</Nod_CarbonPlate.description>
+
+  <Nod_LiquidTiberium.label>액체 타이베리움</Nod_LiquidTiberium.label>
+  <Nod_LiquidTiberium.description>액체 타이베리움은 타이베리움의 가장 순수한 형태입니다. 매우 귀중하지만 매우 불안정하며, 짧은 반감기를 지닙니다. 취급에 주의하십시오.</Nod_LiquidTiberium.description>
+
+  <Nod_LQTiberiumCore.label>액체 타이베리움 축전핵</Nod_LQTiberiumCore.label>
+  <Nod_LQTiberiumCore.description>변경의 기술력으로는 액체 타이베리움의 잠재력을 온전히 끌어내기 어렵습니다. 오직 축전핵만이 그것을 가능케 합니다.</Nod_LQTiberiumCore.description>
+
+  <GDI_SonicCore.label>음파 공명핵</GDI_SonicCore.label>
+  <GDI_SonicCore.description>변경의 기술력으로는 정밀한 음파 공명 기술을 완전히 제어하기 어렵습니다. 오직 공명핵만이 그것을 가능케 합니다.</GDI_SonicCore.description>
+
+  <JuggernautShell.label>저거넛 포탄</JuggernautShell.label>
+  <JuggernautShell.description>저거넛 포탑에 장전할 수 있는 포탄입니다.</JuggernautShell.description>
+
+
+</LanguageData>

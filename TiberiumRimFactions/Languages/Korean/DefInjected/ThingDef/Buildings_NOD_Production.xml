@@ -1,0 +1,22 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+
+  <!-- Nod Structures -->
+
+  <Nod_Factory.label>노드 조립설비</Nod_Factory.label>
+  <Nod_Factory.description>다양한 무기와 방어구, 아이템을 조립할 수 있는 장치입니다.</Nod_Factory.description>
+  <Nod_Factory_Blueprint.label>노드 조립설비 (청사진)</Nod_Factory_Blueprint.label>
+  <Nod_Factory_Frame.label>노드 조립설비 (건설 중)</Nod_Factory_Frame.label>
+
+  <Nod_TiberiumRefinery.label>노드 타이베리움 정제소</Nod_TiberiumRefinery.label>
+  <Nod_TiberiumRefinery.description>표준형 노드 타이베리움 정제소입니다. 치명적인 타이베리움을 유용한 자원으로 변환합니다.</Nod_TiberiumRefinery.description>
+  <Nod_TiberiumRefinery_Blueprint.label>노드 타이베리움 정제소 (청사진)</Nod_TiberiumRefinery_Blueprint.label>
+  <Nod_TiberiumRefinery_Frame.label>노드 타이베리움 정제소 (건설 중)</Nod_TiberiumRefinery_Frame.label>
+
+  <Nod_TiberiumPowerPlant.label>노드 타이베리움 발전소</Nod_TiberiumPowerPlant.label>
+  <Nod_TiberiumPowerPlant.description>표준형 노드 타이베리움 발전소입니다. 타이베리움 연료를 소모합니다.</Nod_TiberiumPowerPlant.description>
+  <Nod_TiberiumPowerPlant_Blueprint.label>노드 타이베리움 발전소 (청사진)</Nod_TiberiumPowerPlant_Blueprint.label>
+  <Nod_TiberiumPowerPlant_Frame.label>노드 타이베리움 발전소 (건설 중)</Nod_TiberiumPowerPlant_Frame.label>
+
+
+</LanguageData>

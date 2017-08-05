@@ -1,0 +1,69 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+
+  <!-- Nod Structures -->
+
+  <NodWall_TBNW.label>사원벽</NodWall_TBNW.label>
+  <NodWall_TBNW.description>사원벽은 사라예보 성지의 유서 깊은 디자인을 모방하여 설계되었습니다.</NodWall_TBNW.description>
+  <NodWall_TBNW_Blueprint.label>사원벽 (청사진)</NodWall_TBNW_Blueprint.label>
+  <NodWall_TBNW_Frame.label>사원벽 (건설 중)</NodWall_TBNW_Frame.label>
+
+  <Nod_LaserFence.label>레이저 격벽</Nod_LaserFence.label>
+  <Nod_LaserFence.description>총알은 통과하지만 사람은 통과할 수 없는 편리한 장치입니다. 인접한 정착민에게 엄폐율을 부여합니다.</Nod_LaserFence.description>
+  <Nod_LaserFence_Blueprint.label>레이저 격벽 (청사진)</Nod_LaserFence_Blueprint.label>
+  <Nod_LaserFence_Frame.label>레이저 격벽 (건설 중)</Nod_LaserFence_Frame.label>
+
+
+  <!-- Nod Doors -->
+
+  <Nod_Door_TBNW.label>사원문</Nod_Door_TBNW.label>
+  <Nod_Door_TBNW.description>튼튼하게 설계된 문입니다. 열고 닫는 과정에서 약간의 시간이 소모됩니다.</Nod_Door_TBNW.description>
+  <Nod_Door_TBNW_Blueprint.label>사원문 (청사진)</Nod_Door_TBNW_Blueprint.label>
+  <Nod_Door_TBNW_Frame.label>사원문 (설치 중)</Nod_Door_TBNW_Frame.label>
+
+  <Nod_Autodoor_TBNW.label>사원 자동문</Nod_Autodoor_TBNW.label>
+  <Nod_Autodoor_TBNW.description>튼튼하게 설계된 문입니다. 스스로 작동하지만 전기가 부족하면 수동으로 열어야 합니다.</Nod_Autodoor_TBNW.description>
+  <Nod_Autodoor_TBNW_Blueprint.label>사원 자동문 (청사진)</Nod_Autodoor_TBNW_Blueprint.label>
+  <Nod_Autodoor_TBNW_Frame.label>사원 자동문 (설치 중)</Nod_Autodoor_TBNW_Frame.label>
+
+  <Nod_Laserdoor.label>레이저 격문</Nod_Laserdoor.label>
+  <Nod_Laserdoor.description>열고 닫을수 있게 개조된 레이저 격벽입니다. 총알은 통과하지만 사람은 통과할 수 없는 편리한 장치입니다. 인접한 정착민에게 엄폐율을 부여합니다.</Nod_Laserdoor.description>
+  <Nod_Laserdoor_Blueprint.label>레이저 격문 (청사진)</Nod_Laserdoor_Blueprint.label>
+  <Nod_Laserdoor_Frame.label>레이저 격문 (설치 중)</Nod_Laserdoor_Frame.label>
+
+
+  <!-- Obelisk -->
+
+  <NodSecurity_Obelisk.label>빛의 오벨리스크</NodSecurity_Obelisk.label>
+  <NodSecurity_Obelisk.description>장엄한 빛의 오벨리스크는 교단의 힘과 잔인성을 상징합니다. 벽 뒤에서도 공격할 수 있으며, 공성병기를 제외한 모든 적에게 강력한 위력을 발휘합니다.</NodSecurity_Obelisk.description>
+  <NodSecurity_Obelisk_Blueprint.label>빛의 오벨리스크 (청사진)</NodSecurity_Obelisk_Blueprint.label>
+  <NodSecurity_Obelisk_Frame.label>빛의 오벨리스크(설치 중)</NodSecurity_Obelisk_Frame.label>
+
+  <Gun_NodObelisk.label>초대형 레이저 방출기</Gun_NodObelisk.label>
+  <Gun_NodObelisk.description>초대형 레이저 방출기</Gun_NodObelisk.description>
+
+  <Bullet_ObeliskGun.label>오벨리스크 빔</Bullet_ObeliskGun.label>
+
+
+  <!-- Shredder Turret -->
+
+  <NodSecurity_ShredderTurret.label>슈레더 포탑</NodSecurity_ShredderTurret.label>
+  <NodSecurity_ShredderTurret.description>군중 학살에 특화된 포탑입니다. 대못 뭉치를 발사합니다.</NodSecurity_ShredderTurret.description>
+  <NodSecurity_ShredderTurret_Blueprint.label>슈레더 포탑 (청사진)</NodSecurity_ShredderTurret_Blueprint.label>
+  <NodSecurity_ShredderTurret_Frame.label>슈레더 포탑 (설치 중)</NodSecurity_ShredderTurret_Frame.label>
+
+  <Gun_ShredderTurret.label>대못 발사기</Gun_ShredderTurret.label>
+  <Gun_ShredderTurret.description>대못 발사기</Gun_ShredderTurret.description>
+
+  <Bullet_Shredder.label>대못</Bullet_Shredder.label>
+
+
+  <!-- Nod Tiberium Suppressor -->
+
+  <Nod_TiberiumSuppressor.label>타이베리움 성장억제기</Nod_TiberiumSuppressor.label>
+  <Nod_TiberiumSuppressor.description>이 거대한 장치는 단말에 연결된 모든 사원벽, 사원문에 타이베리움 성장을 억제하는 전자기 파장을 공급합니다. 엄청난 양의 전기를 소모합니다.</Nod_TiberiumSuppressor.description>
+  <Nod_TiberiumSuppressor_Blueprint.label>타이베리움 성장억제기 (청사진)</Nod_TiberiumSuppressor_Blueprint.label>
+  <Nod_TiberiumSuppressor_Frame.label>타이베리움 성장억제기 (건설 중)</Nod_TiberiumSuppressor_Frame.label>
+
+
+</LanguageData>

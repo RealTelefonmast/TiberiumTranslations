@@ -1,0 +1,54 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+
+  <Follower.label>추종자</Follower.label>
+  <Follower.labelPlural>추종집단</Follower.labelPlural>
+  <Follower.label남성>남성 추종자</Follower.label남성>
+  <Follower.label남성Plural>추종집단</Follower.label남성Plural>
+  <Follower.label여성>여성 추종자</Follower.label여성>
+  <Follower.label여성Plural>추종집단</Follower.label여성Plural>
+
+  <NodOfficer.label>장교</NodOfficer.label>
+  <NodOfficer.labelPlural>지휘부</NodOfficer.labelPlural>
+  <NodOfficer.label남성>남성 장교</NodOfficer.label남성>
+  <NodOfficer.label남성Plural>지휘부</NodOfficer.label남성Plural>
+  <NodOfficer.label여성>여성 장교</NodOfficer.label여성>
+  <NodOfficer.label여성Plural>지휘부</NodOfficer.label여성Plural>
+
+  <ClanTrader.label>상인</ClanTrader.label>
+  <ClanTrader.labelPlural>상단</ClanTrader.labelPlural>
+  <ClanTrader.label남성>남성 상인</ClanTrader.label남성>
+  <ClanTrader.label남성Plural>상단</ClanTrader.label남성Plural>
+  <ClanTrader.label여성>여성 상인</ClanTrader.label여성>
+  <ClanTrader.label여성Plural>상단</ClanTrader.label여성Plural>
+
+  <NodBlackHand.label>블랙핸드</NodBlackHand.label>
+  <NodBlackHand.labelPlural>블랙핸드단</NodBlackHand.labelPlural>
+  <NodBlackHand.label남성>남성 블랙핸드</NodBlackHand.label남성>
+  <NodBlackHand.label남성Plural>블랙핸드단</NodBlackHand.label남성Plural>
+  <NodBlackHand.label여성>여성 블랙핸드</NodBlackHand.label여성>
+  <NodBlackHand.label여성Plural>블랙핸드단</NodBlackHand.label여성Plural>
+
+  <NodOfficerTroop.label>돌격병</NodOfficerTroop.label>
+  <NodOfficerTroop.labelPlural>돌격대</NodOfficerTroop.labelPlural>
+  <NodOfficerTroop.label남성>남성 돌격병</NodOfficerTroop.label남성>
+  <NodOfficerTroop.label남성Plural>돌격대</NodOfficerTroop.label남성Plural>
+  <NodOfficerTroop.label여성>여성 돌격병</NodOfficerTroop.label여성>
+  <NodOfficerTroop.label여성Plural>돌격대</NodOfficerTroop.label여성Plural>
+
+  <NodMilitia.label>민병</NodMilitia.label>
+  <NodMilitia.labelPlural>민병대</NodMilitia.labelPlural>
+  <NodMilitia.label남성>남성 민병</NodMilitia.label남성>
+  <NodMilitia.label남성Plural>민병대</NodMilitia.label남성Plural>
+  <NodMilitia.label여성>여성 민병</NodMilitia.label여성>
+  <NodMilitia.label여성Plural>민병대</NodMilitia.label여성Plural>
+
+  <NodMilitiaRocket.label>로켓 돌격병</NodMilitiaRocket.label>
+  <NodMilitiaRocket.labelPlural>로켓 돌격대</NodMilitiaRocket.labelPlural>
+  <NodMilitiaRocket.label남성>남성 로켓 돌격병</NodMilitiaRocket.label남성>
+  <NodMilitiaRocket.label남성Plural>로켓 돌격대</NodMilitiaRocket.label남성Plural>
+  <NodMilitiaRocket.label여성>여성 로켓 돌격병</NodMilitiaRocket.label여성>
+  <NodMilitiaRocket.label여성Plural>로켓 돌격대</NodMilitiaRocket.label여성Plural>
+
+
+</LanguageData>

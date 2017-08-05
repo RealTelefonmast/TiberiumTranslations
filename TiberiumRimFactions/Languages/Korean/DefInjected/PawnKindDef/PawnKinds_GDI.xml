@@ -1,0 +1,47 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+
+  <Citizen.label>시민</Citizen.label>
+  <Citizen.labelPlural>군중</Citizen.labelPlural>
+  <Citizen.labelMale>남성 시민</Citizen.labelMale>
+  <Citizen.labelMalePlural>군중</Citizen.labelMalePlural>
+  <Citizen.labelFemale>여성 시민</Citizen.labelFemale>
+  <Citizen.labelFemalePlural>군중</Citizen.labelFemalePlural>
+
+  <CityDirector.label>사령관</CityDirector.label>
+  <CityDirector.labelPlural>지휘부</CityDirector.labelPlural>
+  <CityDirector.labelMale>남성 사령관</CityDirector.labelMale>
+  <CityDirector.labelMalePlural>지휘부</CityDirector.labelMalePlural>
+  <CityDirector.labelFemale>여성 사령관</CityDirector.labelFemale>
+  <CityDirector.labelFemalePlural>지휘부</CityDirector.labelFemalePlural>
+
+  <CityTrader.label>상인</CityTrader.label>
+  <CityTrader.labelPlural>상단</CityTrader.labelPlural>
+  <CityTrader.labelMale>남성 상인</CityTrader.labelMale>
+  <CityTrader.labelMalePlural>상단</CityTrader.labelMalePlural>
+  <CityTrader.labelFemale>여성 상인</CityTrader.labelFemale>
+  <CityTrader.labelFemalePlural>상단</CityTrader.labelFemalePlural>
+
+  <GDIZoneTrooper.label>지역제압병</GDIZoneTrooper.label>
+  <GDIZoneTrooper.labelPlural>지역제압부대</GDIZoneTrooper.labelPlural>
+  <GDIZoneTrooper.labelMale>남성 지역제압병</GDIZoneTrooper.labelMale>
+  <GDIZoneTrooper.labelMalePlural>지역제압부대</GDIZoneTrooper.labelMalePlural>
+  <GDIZoneTrooper.labelFemale>여성 지역제압병</GDIZoneTrooper.labelFemale>
+  <GDIZoneTrooper.labelFemalePlural>지역제압부대</GDIZoneTrooper.labelFemalePlural>
+
+  <GDIOfficerTroop.label>장교</GDIOfficerTroop.label>
+  <GDIOfficerTroop.labelPlural>지휘부</GDIOfficerTroop.labelPlural>
+  <GDIOfficerTroop.labelMale>남성 장교</GDIOfficerTroop.labelMale>
+  <GDIOfficerTroop.labelMalePlural>지휘부</GDIOfficerTroop.labelMalePlural>
+  <GDIOfficerTroop.labelFemale>남성 장교</GDIOfficerTroop.labelFemale>
+  <GDIOfficerTroop.labelFemalePlural>지휘부</GDIOfficerTroop.labelFemalePlural>
+
+  <GDISoldier.label>사병</GDISoldier.label>
+  <GDISoldier.labelPlural>분대</GDISoldier.labelPlural>
+  <GDISoldier.labelMale>남성 사병</GDISoldier.labelMale>
+  <GDISoldier.labelMalePlural>분대</GDISoldier.labelMalePlural>
+  <GDISoldier.labelFemale>여성 사병</GDISoldier.labelFemale>
+  <GDISoldier.labelFemalePlural>분대</GDISoldier.labelFemalePlural>
+
+
+</LanguageData>

@@ -1,0 +1,13 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+
+  <Factions_DoBillsTibRefinery.label>정제소에서 일하기</Factions_DoBillsTibRefinery.label>
+  <Factions_DoBillsTibRefinery.verb>타이베리움 정제</Factions_DoBillsTibRefinery.verb>
+  <Factions_DoBillsTibRefinery.gerund>타이베리움 정제하기</Factions_DoBillsTibRefinery.gerund>
+
+  <Factions_DoBillsFactory.label>제조소에서 일하기</Factions_DoBillsFactory.label>
+  <Factions_DoBillsFactory.verb>장비 제조</Factions_DoBillsFactory.verb>
+  <Factions_DoBillsFactory.gerund>장비 제조하기</Factions_DoBillsFactory.gerund>
+
+
+</LanguageData>

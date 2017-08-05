@@ -1,0 +1,22 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+
+  <!-- GDI Structures -->
+
+  <GDI_Factory.label>GDI 생산설비</GDI_Factory.label>
+  <GDI_Factory.description>다양한 무기와 방어구, 아이템을 생산할 수 있는 장치입니다.</GDI_Factory.description>
+  <GDI_Factory_Blueprint.label>GDI 생산설비 (청사진)</GDI_Factory_Blueprint.label>
+  <GDI_Factory_Frame.label>GDI 생산설비 (건설 중)</GDI_Factory_Frame.label>
+
+  <GDI_TiberiumRefinery.label>GDI 타이베리움 정제소</GDI_TiberiumRefinery.label>
+  <GDI_TiberiumRefinery.description>표준형 GDI 타이베리움 정제소입니다. 치명적인 타이베리움을 유용한 자원으로 변환합니다.</GDI_TiberiumRefinery.description>
+  <GDI_TiberiumRefinery_Blueprint.label>GDI 타이베리움 정제소 (청사진)</GDI_TiberiumRefinery_Blueprint.label>
+  <GDI_TiberiumRefinery_Frame.label>GDI 타이베리움 정제소 (건설 중)</GDI_TiberiumRefinery_Frame.label>
+
+  <GDI_TiberiumPowerPlant.label>GDI 타이베리움 발전소</GDI_TiberiumPowerPlant.label>
+  <GDI_TiberiumPowerPlant.description>표준형 GDI 타이베리움 발전소입니다. 타이베리움 연료를 소모합니다.</GDI_TiberiumPowerPlant.description>
+  <GDI_TiberiumPowerPlant_Blueprint.label>GDI 타이베리움 발전소 (청사진)</GDI_TiberiumPowerPlant_Blueprint.label>
+  <GDI_TiberiumPowerPlant_Frame.label>GDI 타이베리움 발전소 (건설 중)</GDI_TiberiumPowerPlant_Frame.label>
+
+
+</LanguageData>
