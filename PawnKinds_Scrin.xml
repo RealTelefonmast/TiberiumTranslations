@@ -1,0 +1,53 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<DefPackage-TraderKindDef>
+
+ 	<PawnKindDef>
+		<defName>Shocktrooper</defName>
+		<label>Shocktrooper</label>
+		<race>Scrin_Shocktrooper</race>
+		<combatPower>160</combatPower>
+		<defaultFactionType>Scrin</defaultFactionType>
+		<aiAvoidCover>true</aiAvoidCover>
+		<lifeStages>
+			<li>
+				<bodyGraphicData>
+					<texPath>things/pawn/scrin/Shocktrooper/Shocktrooper</texPath>
+					<graphicClass>Graphic_Multi</graphicClass>
+					<drawSize>4</drawSize>
+					<shadowData>
+						<volume>(0.4, 0.8, 0.4)</volume>
+					</shadowData>
+				</bodyGraphicData>
+			</li>
+		</lifeStages>
+		<weaponMoney>
+			<min>5000</min>
+			<max>5000</max>
+		</weaponMoney>
+		<weaponTags>
+			<li>ShocktrooperGun</li>
+		</weaponTags>
+	</PawnKindDef>
+
+	<PawnKindDef>
+    <defName>Buzzer</defName>
+    <label>Buzzer</label>
+    <race>Scrin_Buzzer</race>
+    <combatPower>300</combatPower>
+    <defaultFactionType>Scrin</defaultFactionType>
+    <aiAvoidCover>true</aiAvoidCover>
+    <lifeStages>
+      <li>
+        <bodyGraphicData>
+          <texPath>things/pawn/scrin/Buzzer/buzzer</texPath>
+          <graphicClass>Graphic_Multi</graphicClass>
+          <drawSize>2</drawSize>
+          <shadowData>
+            <volume>(0.6, 0.8, 0.6)</volume>
+          </shadowData>
+        </bodyGraphicData>
+      </li>
+    </lifeStages>
+  </PawnKindDef>
+
+</DefPackage-TraderKindDef>
